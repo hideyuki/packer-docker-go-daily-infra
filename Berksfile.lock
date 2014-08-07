@@ -1,0 +1,9 @@
+DEPENDENCIES
+  go-dialy
+    git: git@github.com:hideyuki/chef-go-dialy.git
+    revision: 1993b23772b961edbb3fa348cdf61f34c881870e
+
+GRAPH
+  go-dialy (0.1.0)
+    golang (>= 0.0.0)
+  golang (1.4.0)
